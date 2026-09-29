@@ -13,7 +13,7 @@
 Aspiring data analyst who loves turning raw data into clear insights. I work with Python, Pandas and Streamlit to clean, analyze and visualize data, and learn by building projects.
 
 🔭 &nbsp;I'm currently working on **Zomato Hyderabad restaurant data analysis and rating predictor**  
-🌱 &nbsp;I'm currently learning **SQL, Power BI ,  and data visualization**  
+🌱 &nbsp;I'm currently learning **SQL, Power BI,  and data visualization**  
 👯 &nbsp;I'm looking to collaborate on **Data analysis and dashboard projects**  
 🤔 &nbsp;I'm looking for help with **Advanced SQL and building better dashboards**  
 💬 &nbsp;Ask me about **Python, Pandas, EDA, Data Cleaning, Streamlit**  
